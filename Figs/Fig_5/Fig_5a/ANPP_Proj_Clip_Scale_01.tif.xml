@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20211005</CreaDate><CreaTime>23191300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20211005" Time="231913">RasterCalculator Int("ANPP_Proj_Clip.tif" * 10) C:\Users\erbao\Desktop\Grassland_NPP\Figs\Fig_5\Fig_5a\ANPP_Proj_Clip_Scale_01.tif</Process></lineage></DataProperties></Esri></metadata>
